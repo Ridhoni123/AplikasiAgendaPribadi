@@ -73,3 +73,4 @@ Aplikasi Agenda Pribadi adalah aplikasi berbasis GUI yang dibuat menggunakan Jav
    Muhammad Ridhoni Ilham - 2210010515
 
 ## **Demo** 
+![Demo GIF](https://github.com/Ridhoni123/MuhammadRidhoniIlham-2210010515-UTS/blob/main/img/Recording%202024-11-24%20185636.gif)
